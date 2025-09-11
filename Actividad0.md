@@ -1,4 +1,1 @@
-# Programacion-Basica-302-I
-## Karen Vianey Moreno González
-## Fecha de nacimiento 04/04/09
-## Portafolio de Códigos de C++
+<img width="259" height="169" alt="image" src="https://github.com/user-attachments/assets/1b3c0161-2aa9-496e-99b5-1bddc1602008" />
