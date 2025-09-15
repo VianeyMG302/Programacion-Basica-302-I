@@ -1,4 +1,4 @@
-##Programa PB302_1.cpp
+## Programa PB302_1.cpp
 ``` cpp
 %%writefile PB302_1.cpp
 //Programa para imprimir mensaje de bienvenida
